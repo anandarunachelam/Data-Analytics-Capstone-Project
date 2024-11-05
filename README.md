@@ -20,4 +20,4 @@
   Cross-Price Elasticities measures the impact of the change in relative volume with change in relative price using statistical modelling. Substitute and Complementary Products understanding used in Cross Price Elasticity.
 ## Power BI Dashboard of the Analysis:
   The dashboard reflects the sales trend and price volume analysis for top products and visualizing customer segments created.
-  
+  The dashboard is presented here: (https://github.com/anandarunachelam/Data-Analytics-Capstone-Project/blob/main/FinalCapstoneDashboard_2908.pbix)
