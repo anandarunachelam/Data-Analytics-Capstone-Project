@@ -21,3 +21,6 @@
 ## Power BI Dashboard of the Analysis:
   The dashboard reflects the sales trend and price volume analysis for top products and visualizing customer segments created.
   The dashboard is presented here: (https://github.com/anandarunachelam/Data-Analytics-Capstone-Project/blob/main/FinalCapstoneDashboard_2908.pbix)
+## Final Presentation to the Customer:
+  Please find here the final analysis and recommendations done by our group (I was the Team Leader) to the customer as the outcome of the Capstone Project. The presentation was made to the customer.
+  Please find the presentation here: (https://github.com/anandarunachelam/Data-Analytics-Capstone-Project/blob/main/Final%20RISE%20Capstone%20-%20Group%201_v3.1.pdf)
